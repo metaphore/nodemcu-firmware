@@ -164,7 +164,7 @@
 //#define WIFI_SMART_ENABLE
 
 //  Enable wifi.sta.config() event callbacks
-#define WIFI_SDK_EVENT_MONITOR_ENABLE
+//#define WIFI_SDK_EVENT_MONITOR_ENABLE
 
 //  Enable creation on the wifi.eventmon.reason table
 #define WIFI_EVENT_MONITOR_DISCONNECT_REASON_LIST_ENABLE
